@@ -18,4 +18,4 @@ I have a passion for art and design, seeking to  combine technical expertise wit
 - 📫 How to reach me: yamunapatel07@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yamuna-Bhanvadiya)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://https://www.linkedin.com/in/yamuna-bhanvadiya///) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yamuna-Bhanvadiya)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yamuna-bhanvadiya///) 
