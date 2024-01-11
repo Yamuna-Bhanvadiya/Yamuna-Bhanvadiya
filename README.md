@@ -10,11 +10,10 @@
 * HTML CSS JavaScript
 * Designing
 
-I'm Yamuna from India, and I am currently pursuing Bachelor's degree in Computer Engineering. 
-I have a passion for art and design, seeking to  combine technical expertise with a creative flair to develop unique and visually appealing products and solutions
+I'm Yamuna from India, and I am currently pursuing a Bachelor's degree in Computer Engineering. 
+I have a passion for art and design, seeking to combine technical expertise with a creative flair to develop unique and visually appealing products and solutions
 
 
-- 🌱 I'm currently developing an application using flutter technology. 
 - 📫 How to reach me: yamunapatel07@gmail.com 
 
 
